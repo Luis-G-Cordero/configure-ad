@@ -121,10 +121,10 @@ Login to the Domain Controller and enable ICMPv4 in on the local windows Firewal
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/81227e07-0dff-4dc8-9bb4-1023dfa620f4" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create the Client VM (Windows 10) named “Client-1”..
+Check back at Client-1 to see the ping succeed.
 </p>
 <br />
 
