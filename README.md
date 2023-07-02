@@ -151,7 +151,7 @@ Login to DC-1 and install Active Directory Domain Services.
 <img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/26146473-8419-4f00-bd33-5e1dfea56940" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remember what it is). Complete all sections on the left by clicking until you click install. Once installation is complete, the virtual machine will restart and you'll log back in as "mydomain.com\labuser" and use whatever password you created during the installation process.
+Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remember what it is). Complete all sections on the left by clicking next until you click install. Once installation is complete, the virtual machine will restart and you'll log back in as "mydomain.com\labuser" and use whatever password you created during the installation process.
 </p>
 <br />
 
