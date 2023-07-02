@@ -53,6 +53,11 @@ Next, Set Domain Controller’s NIC Private IP address to be static.
 <p>
 Create the Client VM (Windows 10) named “Client-1”..
 </p>
+</p>
+</p>
+</p>
+</p>
+
 <br />
 
 
@@ -68,6 +73,13 @@ Create the Client VM (Windows 10) named “Client-1”..
 </p>
 <p>
 Ensure that both VMs are in the same Vnet.
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
 </p>
 <br />
 
@@ -95,6 +107,13 @@ Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with 
 </p>
 <p>
 Login to the Domain Controller and enable ICMPv4 in on the local windows Firewall.
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
 </p>
 <br />
 
