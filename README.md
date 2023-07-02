@@ -26,7 +26,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/1c585577-f0d1-402f-92ef-3525a30c6885" height="80%" width="80%" alt=Steps/>
 </p>
 <p>
 To start off, create a virtual machine that will be used for the Domain controller. Name the virtual machine "DC-1"
