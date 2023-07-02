@@ -89,13 +89,12 @@ Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with 
 <img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/73d4e056-cab4-420c-9bc0-6483c0b0bb19" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Login to the Domain Controller and enable ICMPv4 in on the local windows Firewall.
 </p>
 <p>
 <img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/5eb81af0-dcf3-4330-bd2e-ff08eeec6ad3" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create the Client VM (Windows 10) named “Client-1”..
+Login to the Domain Controller and enable ICMPv4 in on the local windows Firewall.
 </p>
 <br />
 
