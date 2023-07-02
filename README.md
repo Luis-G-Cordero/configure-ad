@@ -132,21 +132,10 @@ Check back at Client-1 to see the ping succeed.
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/ddd3ba7f-d498-432d-a96a-17c12b8d899c" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create the Client VM (Windows 10) named “Client-1”..
-</p>
-<br />
-
-
-
-
-<p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
-</p>
-<p>
-Create the Client VM (Windows 10) named “Client-1”..
+Login to DC-1 and install Active Directory Domain Services.
 </p>
 <br />
 
@@ -154,10 +143,15 @@ Create the Client VM (Windows 10) named “Client-1”..
 
 
 <p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/4b4f7c62-0099-4e5b-ab9f-89c1bfd94d2b" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+</p>
+<p>
 <img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create the Client VM (Windows 10) named “Client-1”..
+Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remember what it is).
 </p>
 <br />
 
