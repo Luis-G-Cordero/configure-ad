@@ -46,10 +46,149 @@ Next, Set Domain Controller’s NIC Private IP address to be static.
 
 
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create the Client VM (Windows 10) named “Client-1”..
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/97e49057-1fbf-4b49-aa78-dbdeb55e5d2e" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+</p>
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/343d1ec5-80fe-4563-90f5-522d35791e52" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Ensure that both VMs are in the same Vnet.
+</p>
+<br />
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create the Client VM (Windows 10) named “Client-1”..
+</p>
+<br />
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create the Client VM (Windows 10) named “Client-1”..
+</p>
+<br />
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create the Client VM (Windows 10) named “Client-1”..
+</p>
+<br />
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create the Client VM (Windows 10) named “Client-1”..
+</p>
+<br />
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create the Client VM (Windows 10) named “Client-1”..
+</p>
+<br />
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create the Client VM (Windows 10) named “Client-1”..
+</p>
+<br />
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create the Client VM (Windows 10) named “Client-1”..
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create the Client VM (Windows 10) named “Client-1”..
+</p>
+<br />
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create the Client VM (Windows 10) named “Client-1”..
+</p>
+<br />
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create the Client VM (Windows 10) named “Client-1”..
+</p>
+<br />
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create the Client VM (Windows 10) named “Client-1”..
 </p>
 <br />
