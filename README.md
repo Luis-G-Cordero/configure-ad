@@ -275,10 +275,10 @@ Login to the Domain Controller (Remote Desktop) and verify Client-1 shows up in 
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/afd5254d-bcf8-4692-a79b-c39ac7ab0ae5" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create a new OU named “_ADMINS”.
+Create a new OU named “_CLIENTS” and drag Client-1 into there.
 </p>
 <br />
 
