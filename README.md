@@ -192,3 +192,182 @@ Create a new OU named “_ADMINS”.
 Create a new employee named “Jane Doe” (same password) with the username of “jane_admin”.
 </p>
 <br />
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/fbc097b2-be29-46d3-8c80-48d403ce2978" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/3e594844-b8b7-49e4-9478-3af5cacb5326" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Add jane_admin to the “Domain Admins” Security Group.
+</p>
+<br />
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
+
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
+
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
+
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
+
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
+
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
+
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
+
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
+
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
+
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
+
+
+
+
+
+
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new OU named “_ADMINS”.
+</p>
+<br />
