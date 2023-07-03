@@ -181,21 +181,14 @@ Create a new OU named “_ADMINS”.
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/6b37247d-ae40-4ced-a144-b28e50def69e" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create the Client VM (Windows 10) named “Client-1”..
-</p>
-<br />
-
-
-
-
-
-<p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create the Client VM (Windows 10) named “Client-1”..
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/1028a6ca-5610-4a5c-a7cd-50233c2ea7d6" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Create a new employee named “Jane Doe” (same password) with the username of “jane_admin”.
 </p>
 <br />
