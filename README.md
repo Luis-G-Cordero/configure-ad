@@ -226,7 +226,7 @@ Log out/close the Remote Desktop connection to DC-1 and log back in as “mydoma
 
 
 <p>
-<img src="" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/36acf6c2-31a8-47a8-84d7-554976209d74" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
 From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP address.
