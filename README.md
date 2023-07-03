@@ -169,10 +169,10 @@ In Active Directory Users and Computers (ADUC), create an Organizational Unit (O
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/dba74b4d-fe52-4b96-8e82-ccaaf55c458a" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create the Client VM (Windows 10) named “Client-1”..
+Create a new OU named “_ADMINS”.
 </p>
 <br />
 
