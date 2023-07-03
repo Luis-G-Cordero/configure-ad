@@ -288,10 +288,13 @@ Create a new OU named “_CLIENTS” and drag Client-1 into there.
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/62fe9c64-3a46-4122-9bc2-1dc71a5b85bb" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create a new OU named “_ADMINS”.
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/71e9e0ce-90ba-425f-aad8-d50e2f199d98" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Log into Client-1 as mydomain.com\jane_admin and open system properties. Click “Remote Desktop”, allow “domain users” access to remote desktop.
 </p>
 <br />
 
