@@ -294,7 +294,7 @@ Create a new OU named “_CLIENTS” and drag Client-1 into there.
 <img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/71e9e0ce-90ba-425f-aad8-d50e2f199d98" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Log into Client-1 as mydomain.com\jane_admin and open system properties. Click “Remote Desktop”, allow “domain users” access to remote desktop.
+Log into Client-1 as mydomain.com\jane_admin and open system properties. Click “Remote Desktop”, allow “domain users” access to remote desktop. You can now log into Client-1 as a normal, non-administrative user now.
 </p>
 <br />
 
