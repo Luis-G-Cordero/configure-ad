@@ -262,10 +262,10 @@ Login to Client-1 (Remote Desktop) as the original local admin (labuser) and joi
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/de27f42b-9d71-4818-a611-3aea07833cdc" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create a new OU named “_ADMINS”.
+Login to the Domain Controller (Remote Desktop) and verify Client-1 shows up in Active Directory Users and Computers (ADUC) inside the “Computers” container on the root of the domain.
 </p>
 <br />
 
