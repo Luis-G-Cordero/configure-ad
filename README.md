@@ -211,10 +211,13 @@ Add jane_admin to the “Domain Admins” Security Group.
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d2c5a85e-d5c3-45c1-95ff-2e7a59287899" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create a new OU named “_ADMINS”.
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/f39bf070-5005-4551-a0f6-479e25386929" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Log out/close the Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”.
 </p>
 <br />
 
