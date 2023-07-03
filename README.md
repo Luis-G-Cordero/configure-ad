@@ -217,7 +217,7 @@ Add jane_admin to the “Domain Admins” Security Group.
 <img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/f39bf070-5005-4551-a0f6-479e25386929" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Log out/close the Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”.
+Log out/close the Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”. Use jane_admin as your admin account from now on.
 </p>
 <br />
 
@@ -226,10 +226,10 @@ Log out/close the Remote Desktop connection to DC-1 and log back in as “mydoma
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+<img src="" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create a new OU named “_ADMINS”.
+From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP address.
 </p>
 <br />
 
@@ -238,10 +238,21 @@ Create a new OU named “_ADMINS”.
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/acfbf7e8-3f7b-4500-9b67-0c4091a9605e" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create a new OU named “_ADMINS”.
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/0744d44a-2242-4c96-a728-07dea4193f53" height="60%" width="60%" alt="Steps"/> 
+<p>
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d2ae865e-bef0-4ac9-b0f1-6e92cd1d09ee" height="60%" width="60%" alt="Steps"/> 
+<p>
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/f3b47692-5ce8-4b30-bb84-47ee24e73670" height="60%" width="60%" alt="Steps"/> 
+<p>
+<p>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/ea9c30c6-4b65-47ff-9430-d9635920f33f" height="60%" width="60%" alt="Steps"/> 
+<p>
+Login to Client-1 (Remote Desktop) as the original local admin (labuser) and join it to the domain (computer will restart).
 </p>
 <br />
 
