@@ -304,10 +304,13 @@ Log into Client-1 as mydomain.com\jane_admin and open system properties. Click �
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/8fa29890-beb1-4f05-b3f4-d8851d2e010f" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create a new OU named “_ADMINS”.
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/4b9168aa-e292-4d42-9efc-eea2e412ca52" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+Login to DC-1 as jane_admin. Open PowerShell_ise as an administrator, create a new File and paste the contents of the script into it.
 </p>
 <br />
 
