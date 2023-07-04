@@ -320,10 +320,10 @@ Login to DC-1 as jane_admin. Open PowerShell_ise as an administrator, create a n
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/7af853bb-9e93-44db-b53b-2103cb2a5f14" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create a new OU named “_ADMINS”.
+Run the script and observe the accounts being created.
 </p>
 <br />
 
