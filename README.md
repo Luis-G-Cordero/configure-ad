@@ -346,10 +346,13 @@ When finished, open ADUC and observe the accounts in the appropriate OU.
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/90efafa5-b828-4367-b5f2-43c902712137" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create a new OU named “_ADMINS”.
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d05aaa0c-7ac3-4855-a719-194693c7c9e5" height="60%" width="60%" alt="Steps"/>
+</p>
+<p>
+attempt to log into Client-1 with one of the accounts (take note of the password in the script). This time use the password: Password1 (you'll see this password listed at the top of script). Once the new user and password are accepted, this will conclude the tutorial of deploying Active Directory.
 </p>
 <br />
 
