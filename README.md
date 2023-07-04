@@ -333,10 +333,10 @@ Run the script and observe the accounts being created.
 
 
 <p>
-<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/d4dee933-3ad8-4dc5-bdb9-3a902beafaae" height="60%" width="60%" alt="Steps"/>
+<img src="https://github.com/Luis-G-Cordero/configure-ad/assets/135280915/89eb8235-25e1-421c-ad46-f2e5ecb4e0e7" height="60%" width="60%" alt="Steps"/>
 </p>
 <p>
-Create a new OU named “_ADMINS”.
+When finished, open ADUC and observe the accounts in the appropriate OU.
 </p>
 <br />
 
